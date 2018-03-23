@@ -1,0 +1,64 @@
+body {
+	font-family:'Lato', sans-serif;
+	font-size: 14px;
+	margin: 0;
+}
+
+#logo {
+	max-width: 350px;
+}
+header {
+	background-color: #F5F6F1;
+}
+
+#header-div {
+	width: 100%;
+	height: 100px;
+	position: fixed;
+	top: 0;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+#main-content {
+	margin-top: 170px;
+}
+
+ul {
+	padding: 10px;
+	background-color: #4C4825;
+    color: white;
+    width: 100%;
+    position: relative;
+	top: -15px;
+}
+
+li {
+	display: inline;
+	margin: 0px 10px 0px 10px;
+	font-weight: bold;
+} 
+
+footer {
+	text-align: center;
+    font-weight: bold;
+    color: white;
+    padding: 30px;
+    background-color: #4C4825;
+    max-width: 100%;
+    margin-left: 0px;
+}
+
+/* 	<div>
+<p style="color: #4C4825"><b>Hello World</b></p>
+<p style="color: #79883A"><b>Hello World</b></p>
+<p style="color: #98AD63"><b>Hello World</b></p>
+<p style="color: #BDC6A2"><b>Hello World</b></p>
+<p style="color: #A4CBC5"><b>Hello World</b></p>
+
+</div> */
+
+

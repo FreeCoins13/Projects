@@ -1,0 +1,128 @@
+
+
+
+h2 {
+	font-size: 40px;
+	color: #4C4825;
+	text-align: left;
+}
+
+form {
+    margin:10px 0;
+}
+
+label {
+    color: #404040;
+    float: left;
+    font-size: 13px;
+    line-height: 18px;
+    padding-top: 6px;
+    text-align: right;
+    width: 130px;
+}
+
+input, textarea, select, checkbox {
+    -moz-border-radius: 3px 3px 3px 3px;
+    border: 1px solid #CCCCCC;
+    color: #808080;
+    display: inline;
+    font-size: 13px;
+    line-height: 18px;
+    padding: 4px;
+}
+
+.checkbox {
+	color: #404040;
+    float: left;
+    font-size: 13px;
+    line-height: 18px;
+    padding-top: 6px;
+    text-align: right;
+    width: 130px;
+    	margin-left: 150px;
+    	margin-top: 11px;
+}
+
+
+
+select {
+    height: 27px;
+    line-height: 27px;
+    	margin-left: 10px;
+    	width: 172px;
+}
+
+input {
+    margin-left: 10px;
+}
+
+form .input {
+    margin-left: 150px;
+}
+
+form .line {
+    margin-bottom: 18px;
+}
+
+.submit {
+	margin-left: 50%;
+}
+
+.submit:hover {
+	background-color: #98AD63;
+	color: white;
+}
+
+
+/* survey output page styling */
+
+.top-content {
+	margin: 3%;
+}
+
+section {
+	display: flex;
+	flex-direction: row;
+	margin: 10px 40px 10px 40px;
+}
+
+.image {
+	max-width: 150px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #4C4825;
+}
+
+.result-display-park {
+	margin-top: 15px;
+	color: #4C4825;
+	font-weight: bold;
+	font-size: 16px;
+	background-color: #F5F6F1;
+	width: 40%;
+	text-align: center;
+	line-height: 50px;
+	height: 30%;
+	margin-left: 40px;
+	margin-right: 40px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #4C4825;
+}
+
+.result-display-num {
+	font-size: 20px;
+	color: #4C4825;
+	margin-top: 15px;
+	background-color: #F5F6F1;
+	width: 10%;
+	text-align: center;
+	line-height: 50px;
+	height: 30%;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #4C4825;
+}
+
+
+

@@ -1,0 +1,46 @@
+section {
+	display: flex;
+	background-color: #F5F6F1;
+	margin: 10px 40px 10px 40px;
+	border-radius: 15px;
+	max-height: 90%;
+	box-shadow: 5px 5px 2px grey;
+}
+
+h2 {
+	font-size: 40px;
+	color: #4C4825;
+}
+
+img {
+	border-radius: 15px;
+	max-width: 350px;
+	max-height: 280px;
+	margin: 0px;
+
+}
+
+img:hover {
+	opacity: 0.5;
+	filter: alpha(opacity=100);
+}
+
+#park-text {
+	margin: 5px 20px 5px 20px;
+}
+
+#park-name {
+	color: #4C4825;
+}
+
+#park-name:hover {
+	color: #98AD63;
+}
+
+/* 
+<p style="color: #4C4825"><b>Hello World</b></p>
+<p style="color: #79883A"><b>Hello World</b></p>
+<p style="color: #98AD63"><b>Hello World</b></p>
+<p style="color: #BDC6A2"><b>Hello World</b></p>
+<p style="color: #A4CBC5"><b>Hello World</b></p>
+ */
